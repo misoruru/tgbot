@@ -5,7 +5,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.filters import Command
 
 # === НАСТРОЙКИ ===
-TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN", "ВАШ_ТОКЕН_БОТА")
+TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN", "8589300429:AAHgxqsG44FcBVs3S9bkhmmcC98vOnLrQ6c")
 GROQ_API_KEY   = os.getenv("GROQ_API_KEY", "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")
 GROQ_URL       = "https://api.groq.com/openai/v1/chat/completions"
 GROQ_MODEL     = "llama-3.3-70b-versatile"
