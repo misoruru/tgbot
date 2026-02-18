@@ -4,7 +4,7 @@ from aiogram.filters import Command
 from groq import Groq
 
 # === НАСТРОЙКИ ===
-TELEGRAM_TOKEN = "ВАШ_ТОКЕН_БОТА"  # Вставь токен от @BotFather
+TELEGRAM_TOKEN = "8589300429:AAHgxqsG44FcBVs3S9bkhmmcC98vOnLrQ6c"  # Вставь токен от @BotFather
 GROQ_API_KEY = "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"
 MODEL = "llama-3.3-70b-versatile"  # Можно изменить модель
 # =================
